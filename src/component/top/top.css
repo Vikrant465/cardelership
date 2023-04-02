@@ -1,0 +1,22 @@
+.Top{
+    position: fixed;
+    height: 7vh;
+    width: 100%;
+    display :flex;
+    background: rgb(255, 255, 255);
+    padding-top: 2vh;
+    padding-bottom: 1vh;
+    font-size: 14px;
+    
+}
+.topstart{
+    padding-left: 30vh;
+    padding-right: 1vh;
+}
+/* .endtop{
+    text-decoration: underline;
+    text-underline-offset: solid;
+    text-decoration-color: rgb(0, 0, 0);
+    padding-left: 0vh;
+    padding-right: 25vh;
+} */

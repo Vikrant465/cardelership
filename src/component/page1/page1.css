@@ -1,0 +1,49 @@
+/* @import url('https://fonts.cdnfonts.com/css/gotham');
+*{
+  font-family: 'Gotham', sans-serif;
+} */
+.page1{
+    height: 100vh;
+    width: 100vw;
+    background-image: url('../../assets/bmw1.webp');
+    background-size: cover;
+    background-position: center;
+}
+.middle{
+    display: grid;
+    justify-content: center;
+    padding-top: 20vh;
+    
+}
+.middle-link1{
+    align-content: center;
+    padding-left: 4vh;
+    font-weight:500;
+    font-size: 5ch;
+}
+.middle-link2{
+    
+    font-size: 2ch;
+}
+.footer{
+    display: flex;
+    padding-top: 50vh;
+    padding-left: 55vh;
+}
+.footer1{
+    display: flex;
+    padding-left: 10vh;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    padding-right: 10vh;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.822);
+}
+.footer2{
+    display: flex;
+    padding-right: 10vh;
+    padding-left: 10vh;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    background-color: rgb(187, 177, 177);
+}

@@ -1,0 +1,21 @@
+.nav{
+    position: fixed;
+    display: flex;
+    width : 100%;
+    /* top: 50px; */
+    margin-top: 9vh;
+    justify-content: center;
+    gap: 20vh;
+    font-size: large;
+
+    /* margin: 0vh; */
+    /* background-color: aqua; */
+    /* align-content: center;    */
+    /* */
+}
+.nav-link-right{
+  font-size: larger;
+}
+
+
+     
